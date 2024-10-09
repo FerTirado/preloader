@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://FerTirado.github.io/preloaderJSLottie/Animation.json',
+        path: 'https://FerTirado.github.io/preloader/Animation.json',
     });
 } 
 
