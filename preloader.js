@@ -38,9 +38,9 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://Fertirado.github.io/preloaderJSLottie/JVGIsylS3F-3.json',
+        path: 'https://FerTirado.github.io/preloaderJSLottie/Animation.json',
     });
-}
+} 
 
 document.addEventListener('DOMContentLoaded', () => {
     hideOverlay(); // Teste sem o setTimeout
